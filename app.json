@@ -1,0 +1,78 @@
+{
+  "id": "625d4ee4-99ae-45f1-ac8c-0ae834e93230",
+  "name": "ALProjectBC23",
+  "publisher": "Default Publisher",
+  "version": "2.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    { 
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "name": "India Gate Entry",
+      "publisher": "Microsoft",
+      "version": "23.4.15643.15715"
+    },
+    
+    {
+    "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+    "name": "India GST",
+    "publisher": "Microsoft",
+    "version": "23.4.15643.15715"
+   },
+   {
+    "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+    "name": "Tax Engine",
+    "publisher": "Microsoft",
+    "version": "23.4.15643.15715"
+  },
+  {
+    "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+    "name": "India Tax Base",
+    "publisher": "Microsoft",
+    "version": "23.4.15643.15715"
+  } ,
+  {
+    "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+    "name": "India TDS",
+    "publisher": "Microsoft",
+    "version": "23.4.15643.15715"
+  },
+  {
+    "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+    "name": "India Reports",
+    "publisher": "Microsoft",
+    "version": "23.4.15643.15715"
+
+  },
+  {
+    "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+    "name": "India TCS",
+    "publisher": "Microsoft",
+    "version": "23.4.15643.15715"
+
+  }
+],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
